@@ -1,2 +1,2 @@
 # java-practice
-my java practice programs and basics
+java practice repository with basic programs and fundamentals.
